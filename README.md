@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## LinkedIn & Email
+
+<a href="https://www.linkedin.com/in/connortracy19/">
+  <img align="left" alt="Connor's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
+<a href="mailto:connortracy15@gmail.com">
+  <img align="left" alt="Connor's Email" width="22px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
+</a> <br>
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ctrace12/Ctrace12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrace12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
