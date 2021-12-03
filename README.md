@@ -5,7 +5,7 @@ My name is Connor Tracy and I am an Experienced software engineer and speaker fo
 I am always collaborating with developers to create new tools to help the community.
 
 #### STRONG: 
-JavaScript ES6+ | React (Native, Hooks, Router, Select) | Redux | TypeScript | Electron | CSS | SASS | Express | OOP | RESTful API's | NoSQL | SQL | Node.js | Webpack | Github | Git | PostgresQL | Enzyme | Jest | Fetch | JSON | Axios | Chart.js
+JavaScript ES6+ | React (Native, Hooks, Router, Select) | Redux | TypeScript | Electron | CSS | SASS | Express.js | OOP | RESTful API's | NoSQL | SQL | Node.js | Webpack | Github | Git | PostgresQL | Enzyme | Jest | Fetch | JSON | Axios | Chart.js
 #### EXPERIENCED: 
 Dataframe-js | AWS | Docker | OAuth | Bcrypt | Python
 <!--
