@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## LinkedIn & Email
 
 <a href="https://www.linkedin.com/in/connortracy19/">
-  <img align="left" alt="Connor's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <p align="left" width="22px">LinkedIn</p>
 </a> 
 <a href="mailto:connortracy15@gmail.com">
   <img align="left" alt="Connor's Email" width="22px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ctrace12/Ctrace12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrace12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/Ctrace12/Ctrace12">
+<!-- <a href="https://github.com/Ctrace12/Ctrace12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ctrace12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ctrace's GitHub Stats" />
-</a>
+</a> -->
 <a href="https://github.com/Ctrace12/Ctrace12">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=preql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
