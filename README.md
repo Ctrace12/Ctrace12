@@ -24,12 +24,18 @@ Here are some ideas to get you started:
 -->
 ## LinkedIn & Email
 
-<a href="https://www.linkedin.com/in/connortracy19/">
-  <p align="left" width="22px">LinkedIn</p>
-</a> 
-<a href="mailto:connortracy15@gmail.com">
-  <img align="left" alt="Connor's Email" width="22px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
-</a> <br>
+<div style={{
+  backgroundColor: "red"
+}}>
+  <a href="https://www.linkedin.com/in/connortracy19/">
+    <p align="left" width="22px">LinkedIn</p>
+  </a> 
+  <a href="mailto:connortracy15@gmail.com">
+    <img align="left" alt="Connor's Email" width="22px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
+  </a> 
+</div>
+
+<br>
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ctrace12/Ctrace12">
