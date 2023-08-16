@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ## LinkedIn & Email
 
 <div style={{
-  backgroundColor: "red"
+  display: "flex",
+  alignItems: "center"
 }}>
   <a href="https://www.linkedin.com/in/connortracy19/">
     <p align="left" width="22px">LinkedIn</p>
